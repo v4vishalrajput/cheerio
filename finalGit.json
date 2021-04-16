@@ -1,0 +1,838 @@
+[
+    {
+        "projectName": "C#",
+        "projectUrl": "https://github.com/topics/csharp",
+        "gitRepos": [
+            {
+                "repoName": "calculator\n",
+                "repoUrl": "https://github.com/microsoft/calculator",
+                "issues": [
+                    {
+                        "issueName": "I cannot see \"Help\" option, Graphing mode: how to specify function domain (say, 1 < x < 10)?",
+                        "issueUrl": "https://github.com/microsoft/calculator/issues/1528"
+                    },
+                    {
+                        "issueName": "Popup key",
+                        "issueUrl": "https://github.com/microsoft/calculator/issues/1527"
+                    },
+                    {
+                        "issueName": "Put microsoft math solver in microsoft calculator",
+                        "issueUrl": "https://github.com/microsoft/calculator/issues/1526"
+                    },
+                    {
+                        "issueName": "Start calculator with certain mode",
+                        "issueUrl": "https://github.com/microsoft/calculator/issues/1524"
+                    },
+                    {
+                        "issueName": "Feature to find Roots of an Equation",
+                        "issueUrl": "https://github.com/microsoft/calculator/issues/1522"
+                    },
+                    {
+                        "issueName": "[Localization] ",
+                        "issueUrl": "https://github.com/microsoft/calculator/issues/1520"
+                    },
+                    {
+                        "issueName": "States lost after restoring calculator from minimized state",
+                        "issueUrl": "https://github.com/microsoft/calculator/issues/1519"
+                    },
+                    {
+                        "issueName": "Add kilowatt-hour (kWh) to energy conversion units",
+                        "issueUrl": "https://github.com/microsoft/calculator/issues/1514"
+                    }
+                ]
+            },
+            {
+                "repoName": "corefx\n",
+                "repoUrl": "https://github.com/dotnet/corefx",
+                "issues": [
+                    {
+                        "issueName": "Port from 5.0: Fix relro, now, and PIE for Libraries",
+                        "issueUrl": "https://github.com/dotnet/corefx/pull/43036"
+                    },
+                    {
+                        "issueName": "Update BuildTools, CoreFx, ProjectNTfs, ProjectNTfsTestILC to rc1-05907-02, servicing-29321-01, rel-29512-01, rel-29512-01, respectively (release/uwp6.2)",
+                        "issueUrl": "https://github.com/dotnet/corefx/pull/42966"
+                    },
+                    {
+                        "issueName": "[release/3.1] Improve Expression.Lambda<TDelegate> performance (dotnet/runtime#32768)",
+                        "issueUrl": "https://github.com/dotnet/corefx/pull/42874"
+                    }
+                ]
+            },
+            {
+                "repoName": "WaveFunctionCollapse\n",
+                "repoUrl": "https://github.com/mxgmn/WaveFunctionCollapse",
+                "issues": []
+            },
+            {
+                "repoName": "ShareX\n",
+                "repoUrl": "https://github.com/ShareX/ShareX",
+                "issues": [
+                    {
+                        "issueName": "[Feature request] - Combine audio source for screen recording",
+                        "issueUrl": "https://github.com/ShareX/ShareX/issues/5517"
+                    },
+                    {
+                        "issueName": "Need Help with getting my app to stay as active window when recording.",
+                        "issueUrl": "https://github.com/ShareX/ShareX/issues/5516"
+                    },
+                    {
+                        "issueName": "[Feature] Nestable Tasks System",
+                        "issueUrl": "https://github.com/ShareX/ShareX/issues/5512"
+                    },
+                    {
+                        "issueName": "please add $width and $height support for screen capture tooltips (and/or add more customisability to Ruler tool)",
+                        "issueUrl": "https://github.com/ShareX/ShareX/issues/5509"
+                    },
+                    {
+                        "issueName": "SFTP: Uploading a file seems to be abnormally slow, possible to implement SCP?",
+                        "issueUrl": "https://github.com/ShareX/ShareX/issues/5508"
+                    },
+                    {
+                        "issueName": "DisableHotkeysOnFullscreen still captures hotkeys",
+                        "issueUrl": "https://github.com/ShareX/ShareX/issues/5507"
+                    },
+                    {
+                        "issueName": "[Feature Request] Video trimmer/cropper",
+                        "issueUrl": "https://github.com/ShareX/ShareX/issues/5504"
+                    },
+                    {
+                        "issueName": "Be able to use Roman numerals in the step annotator",
+                        "issueUrl": "https://github.com/ShareX/ShareX/issues/5501"
+                    }
+                ]
+            },
+            {
+                "repoName": "awesome-dotnet-core\n",
+                "repoUrl": "https://github.com/thangchung/awesome-dotnet-core",
+                "issues": [
+                    {
+                        "issueName": "Add Downloader",
+                        "issueUrl": "https://github.com/thangchung/awesome-dotnet-core/issues/730"
+                    },
+                    {
+                        "issueName": "Add DotNetBlog",
+                        "issueUrl": "https://github.com/thangchung/awesome-dotnet-core/issues/721"
+                    },
+                    {
+                        "issueName": "Adding Stream-Ripper",
+                        "issueUrl": "https://github.com/thangchung/awesome-dotnet-core/issues/718"
+                    },
+                    {
+                        "issueName": "Adding \"Awesome Microservices .NET Core\"",
+                        "issueUrl": "https://github.com/thangchung/awesome-dotnet-core/issues/711"
+                    },
+                    {
+                        "issueName": "The \"Dotnet outdated\" link is broken.",
+                        "issueUrl": "https://github.com/thangchung/awesome-dotnet-core/issues/704"
+                    },
+                    {
+                        "issueName": "Add Silverback",
+                        "issueUrl": "https://github.com/thangchung/awesome-dotnet-core/issues/699"
+                    },
+                    {
+                        "issueName": "Add dotnet-fformat",
+                        "issueUrl": "https://github.com/thangchung/awesome-dotnet-core/issues/692"
+                    },
+                    {
+                        "issueName": "Add JHipster.NET ",
+                        "issueUrl": "https://github.com/thangchung/awesome-dotnet-core/issues/677"
+                    }
+                ]
+            },
+            {
+                "repoName": "roslyn\n",
+                "repoUrl": "https://github.com/dotnet/roslyn",
+                "issues": [
+                    {
+                        "issueName": "Allow output of non-compiled data from SG",
+                        "issueUrl": "https://github.com/dotnet/roslyn/issues/52677"
+                    },
+                    {
+                        "issueName": "Warn on redundant patterns",
+                        "issueUrl": "https://github.com/dotnet/roslyn/issues/52674"
+                    },
+                    {
+                        "issueName": "API extension for conditional methods",
+                        "issueUrl": "https://github.com/dotnet/roslyn/issues/52673"
+                    },
+                    {
+                        "issueName": "EditorConfig UI: Does not load without managed project",
+                        "issueUrl": "https://github.com/dotnet/roslyn/issues/52668"
+                    },
+                    {
+                        "issueName": "XML Documents for Positional Records",
+                        "issueUrl": "https://github.com/dotnet/roslyn/issues/52663"
+                    },
+                    {
+                        "issueName": "editorconfig UI conflicts with EditorConfig Language Service extension",
+                        "issueUrl": "https://github.com/dotnet/roslyn/issues/52661"
+                    },
+                    {
+                        "issueName": "Flaky test: TupleWithElementNamedWithDefaultName",
+                        "issueUrl": "https://github.com/dotnet/roslyn/issues/52658"
+                    },
+                    {
+                        "issueName": "Codelens doesn't count references for operator <",
+                        "issueUrl": "https://github.com/dotnet/roslyn/issues/52654"
+                    }
+                ]
+            },
+            {
+                "repoName": "awesome-dotnet\n",
+                "repoUrl": "https://github.com/quozd/awesome-dotnet",
+                "issues": [
+                    {
+                        "issueName": "Link of \"CLI/Appccelerate - Command Line Parser\" is broken",
+                        "issueUrl": "https://github.com/quozd/awesome-dotnet/issues/998"
+                    },
+                    {
+                        "issueName": "Obfuscators",
+                        "issueUrl": "https://github.com/quozd/awesome-dotnet/issues/983"
+                    },
+                    {
+                        "issueName": "Tesserae is a UI toolkit for building websites entirely in C#, inspired by Microsoft's Fluent UI toolkit. (Add to list)",
+                        "issueUrl": "https://github.com/quozd/awesome-dotnet/issues/971"
+                    },
+                    {
+                        "issueName": "C# to JavaScript compiler, now on .NET50 (Addition to list)",
+                        "issueUrl": "https://github.com/quozd/awesome-dotnet/issues/970"
+                    },
+                    {
+                        "issueName": "Add Downloader",
+                        "issueUrl": "https://github.com/quozd/awesome-dotnet/issues/962"
+                    },
+                    {
+                        "issueName": "Adding \"Awesome Microservices .NET Core\"",
+                        "issueUrl": "https://github.com/quozd/awesome-dotnet/issues/940"
+                    },
+                    {
+                        "issueName": "Add obfuscation section and corresponding libraries",
+                        "issueUrl": "https://github.com/quozd/awesome-dotnet/issues/850"
+                    },
+                    {
+                        "issueName": "No clear ordering rules of items within each catetory",
+                        "issueUrl": "https://github.com/quozd/awesome-dotnet/issues/599"
+                    }
+                ]
+            },
+            {
+                "repoName": "Avalonia\n",
+                "repoUrl": "https://github.com/AvaloniaUI/Avalonia",
+                "issues": [
+                    {
+                        "issueName": "DataGrid cleared selection returns after sorting ",
+                        "issueUrl": "https://github.com/AvaloniaUI/Avalonia/issues/5786"
+                    },
+                    {
+                        "issueName": "High CPU usage on Raspberry Pi",
+                        "issueUrl": "https://github.com/AvaloniaUI/Avalonia/issues/5785"
+                    },
+                    {
+                        "issueName": "Middle click doesn't work on macos",
+                        "issueUrl": "https://github.com/AvaloniaUI/Avalonia/issues/5784"
+                    },
+                    {
+                        "issueName": "[Proposal] Enhancements to WindowStartupLocation",
+                        "issueUrl": "https://github.com/AvaloniaUI/Avalonia/issues/5782"
+                    },
+                    {
+                        "issueName": "Window ShowDialog() layout is different when changing properties setting order",
+                        "issueUrl": "https://github.com/AvaloniaUI/Avalonia/issues/5781"
+                    },
+                    {
+                        "issueName": "ToolTips are not correctly displayed ",
+                        "issueUrl": "https://github.com/AvaloniaUI/Avalonia/issues/5780"
+                    },
+                    {
+                        "issueName": "Support for Design Time Attributes",
+                        "issueUrl": "https://github.com/AvaloniaUI/Avalonia/issues/5776"
+                    },
+                    {
+                        "issueName": "crash when open",
+                        "issueUrl": "https://github.com/AvaloniaUI/Avalonia/issues/5774"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "projectName": "Laravel",
+        "projectUrl": "https://github.com/topics/laravel",
+        "gitRepos": [
+            {
+                "repoName": "laravel\n",
+                "repoUrl": "https://github.com/laravel/laravel",
+                "issues": []
+            },
+            {
+                "repoName": "framework\n",
+                "repoUrl": "https://github.com/laravel/framework",
+                "issues": [
+                    {
+                        "issueName": "Fix PHP 8.1 build failures",
+                        "issueUrl": "https://github.com/laravel/framework/issues/36813"
+                    },
+                    {
+                        "issueName": "php artisan migrate --pretend not working on ChangeColumn",
+                        "issueUrl": "https://github.com/laravel/framework/issues/36629"
+                    },
+                    {
+                        "issueName": "Testing Job Batching ",
+                        "issueUrl": "https://github.com/laravel/framework/issues/36590"
+                    },
+                    {
+                        "issueName": "Set up MS SQL Server driver in Windows builds",
+                        "issueUrl": "https://github.com/laravel/framework/issues/36398"
+                    },
+                    {
+                        "issueName": "Postgresql update: removed support for \"update ... from ...\" statement in 6.x and 7.x",
+                        "issueUrl": "https://github.com/laravel/framework/issues/33265"
+                    },
+                    {
+                        "issueName": "mysql json field cannot update nested array item through nested array's index",
+                        "issueUrl": "https://github.com/laravel/framework/issues/26415"
+                    }
+                ]
+            },
+            {
+                "repoName": "iris\n",
+                "repoUrl": "https://github.com/kataras/iris",
+                "issues": [
+                    {
+                        "issueName": "card2u",
+                        "issueUrl": "https://github.com/kataras/iris/issues/1756"
+                    },
+                    {
+                        "issueName": "[BUG] When Gzip is on and ctx.StatusCode(iris.StatusBadRequest), JSON value can not be returned. Only \"Bad Request\" is returned.",
+                        "issueUrl": "https://github.com/kataras/iris/issues/1755"
+                    },
+                    {
+                        "issueName": "[BUG] Unable to attach Validator on iris Application",
+                        "issueUrl": "https://github.com/kataras/iris/issues/1754"
+                    },
+                    {
+                        "issueName": "TimeoutHandler",
+                        "issueUrl": "https://github.com/kataras/iris/issues/1751"
+                    },
+                    {
+                        "issueName": "Help: how to proxy http requests after BasicAuth ?",
+                        "issueUrl": "https://github.com/kataras/iris/issues/1749"
+                    },
+                    {
+                        "issueName": "[BUG] Routing couldn't distinguish slashes even though I have the right regexp",
+                        "issueUrl": "https://github.com/kataras/iris/issues/1748"
+                    },
+                    {
+                        "issueName": "[BUG] accesslog: BodyMinify = true &&  ResponseBody = true will be change response json value",
+                        "issueUrl": "https://github.com/kataras/iris/issues/1745"
+                    },
+                    {
+                        "issueName": "[BUG]AccessLog.ResponseBody affects the result of the httputil.ReverseProxy",
+                        "issueUrl": "https://github.com/kataras/iris/issues/1740"
+                    }
+                ]
+            },
+            {
+                "repoName": "monica\n",
+                "repoUrl": "https://github.com/monicahq/monica",
+                "issues": [
+                    {
+                        "issueName": "How to use an existing MySQL container with shared sockets in docker?",
+                        "issueUrl": "https://github.com/monicahq/monica/issues/5066"
+                    },
+                    {
+                        "issueName": "Migrating from one system to another",
+                        "issueUrl": "https://github.com/monicahq/monica/issues/5065"
+                    },
+                    {
+                        "issueName": "[app.monikahq.com version] can't create access token?",
+                        "issueUrl": "https://github.com/monicahq/monica/issues/5061"
+                    },
+                    {
+                        "issueName": "Avatar thumbnails not displayed, unable to select gravatar",
+                        "issueUrl": "https://github.com/monicahq/monica/issues/5059"
+                    },
+                    {
+                        "issueName": "Use Gravatar as default when available",
+                        "issueUrl": "https://github.com/monicahq/monica/issues/5041"
+                    },
+                    {
+                        "issueName": "DAV settings missing on Heroku deployment",
+                        "issueUrl": "https://github.com/monicahq/monica/issues/5039"
+                    },
+                    {
+                        "issueName": "Auto Relaionship",
+                        "issueUrl": "https://github.com/monicahq/monica/issues/5038"
+                    },
+                    {
+                        "issueName": "How to add new Family relationship Son/Daughter-in-Law?",
+                        "issueUrl": "https://github.com/monicahq/monica/issues/5036"
+                    }
+                ]
+            },
+            {
+                "repoName": "laravel-debugbar\n",
+                "repoUrl": "https://github.com/barryvdh/laravel-debugbar",
+                "issues": [
+                    {
+                        "issueName": "Log error Debugbar exception: Attempt to read property \"cookies\" on null ",
+                        "issueUrl": "https://github.com/barryvdh/laravel-debugbar/issues/1169"
+                    },
+                    {
+                        "issueName": "ReflectionFunction::__construct() expects parameter 1 to be string, array given",
+                        "issueUrl": "https://github.com/barryvdh/laravel-debugbar/issues/1168"
+                    },
+                    {
+                        "issueName": "Debugbar not shown when using a controller",
+                        "issueUrl": "https://github.com/barryvdh/laravel-debugbar/issues/1167"
+                    },
+                    {
+                        "issueName": ".",
+                        "issueUrl": "https://github.com/barryvdh/laravel-debugbar/issues/1163"
+                    },
+                    {
+                        "issueName": "Enable debugbar at runtime",
+                        "issueUrl": "https://github.com/barryvdh/laravel-debugbar/issues/1162"
+                    },
+                    {
+                        "issueName": "phpdebugbar-datasets-switcher is too high",
+                        "issueUrl": "https://github.com/barryvdh/laravel-debugbar/issues/1161"
+                    },
+                    {
+                        "issueName": "ERROR: Header may not contain more than a single header, new line detected ",
+                        "issueUrl": "https://github.com/barryvdh/laravel-debugbar/issues/1157"
+                    },
+                    {
+                        "issueName": "Same number of queries and models on every page",
+                        "issueUrl": "https://github.com/barryvdh/laravel-debugbar/issues/1156"
+                    }
+                ]
+            },
+            {
+                "repoName": "koel\n",
+                "repoUrl": "https://github.com/koel/koel",
+                "issues": [
+                    {
+                        "issueName": "koel:init exits after two successful setup steps",
+                        "issueUrl": "https://github.com/koel/koel/issues/1304"
+                    },
+                    {
+                        "issueName": "php artisan init command fails",
+                        "issueUrl": "https://github.com/koel/koel/issues/1301"
+                    },
+                    {
+                        "issueName": "Infinite loop with console commands in non-interactive mode",
+                        "issueUrl": "https://github.com/koel/koel/issues/1294"
+                    },
+                    {
+                        "issueName": "Exception when sync with tags",
+                        "issueUrl": "https://github.com/koel/koel/issues/1291"
+                    },
+                    {
+                        "issueName": "Player bar hiden by Safari's interface",
+                        "issueUrl": "https://github.com/koel/koel/issues/1282"
+                    },
+                    {
+                        "issueName": "Audio not working in Browsers except Firefox",
+                        "issueUrl": "https://github.com/koel/koel/issues/1281"
+                    },
+                    {
+                        "issueName": "FR select songs by path",
+                        "issueUrl": "https://github.com/koel/koel/issues/1277"
+                    },
+                    {
+                        "issueName": "CUE Sheet support",
+                        "issueUrl": "https://github.com/koel/koel/issues/1264"
+                    }
+                ]
+            },
+            {
+                "repoName": "Cachet\n",
+                "repoUrl": "https://github.com/CachetHQ/Cachet",
+                "issues": [
+                    {
+                        "issueName": "Email settings can't be changed",
+                        "issueUrl": "https://github.com/CachetHQ/Cachet/issues/4260"
+                    },
+                    {
+                        "issueName": "No Emails for Scheduled Maintenance",
+                        "issueUrl": "https://github.com/CachetHQ/Cachet/issues/4242"
+                    },
+                    {
+                        "issueName": "X-Forwarded-Host header spoofing is possible, resulting in the error page linking users to the content of the spoofed header.",
+                        "issueUrl": "https://github.com/CachetHQ/Cachet/issues/4236"
+                    },
+                    {
+                        "issueName": "Ubuntu 20.10, php v7.4.9 cannot install via composer  backup-manager/laravel dev-master requires php ^7.3||^7.4 -> your php version (5.5.9; overridden via config.platform, actual: 7.4.9) does not satisfy that requirement.",
+                        "issueUrl": "https://github.com/CachetHQ/Cachet/issues/4234"
+                    },
+                    {
+                        "issueName": "Username error: not showing the name of the admin",
+                        "issueUrl": "https://github.com/CachetHQ/Cachet/issues/4230"
+                    },
+                    {
+                        "issueName": "No option: delete update for incidents already reported",
+                        "issueUrl": "https://github.com/CachetHQ/Cachet/issues/4229"
+                    },
+                    {
+                        "issueName": "Is there a way to restrict subscribers to a particular domain?",
+                        "issueUrl": "https://github.com/CachetHQ/Cachet/issues/4218"
+                    },
+                    {
+                        "issueName": "CORS issue with sharepoint",
+                        "issueUrl": "https://github.com/CachetHQ/Cachet/issues/4217"
+                    }
+                ]
+            },
+            {
+                "repoName": "image\n",
+                "repoUrl": "https://github.com/Intervention/image",
+                "issues": [
+                    {
+                        "issueName": "How to apply gradient on text?",
+                        "issueUrl": "https://github.com/Intervention/image/issues/1082"
+                    },
+                    {
+                        "issueName": "Why Image source not readable ",
+                        "issueUrl": "https://github.com/Intervention/image/issues/1080"
+                    },
+                    {
+                        "issueName": "Orientation Imagick",
+                        "issueUrl": "https://github.com/Intervention/image/issues/1079"
+                    },
+                    {
+                        "issueName": "How to use Laravel Storege to save Image？",
+                        "issueUrl": "https://github.com/Intervention/image/issues/1078"
+                    },
+                    {
+                        "issueName": "Couldn't find a way to provide custom headers for Image::make()",
+                        "issueUrl": "https://github.com/Intervention/image/issues/1077"
+                    },
+                    {
+                        "issueName": "Resize to filesize",
+                        "issueUrl": "https://github.com/Intervention/image/issues/1076"
+                    },
+                    {
+                        "issueName": "Laravel 8: Unable to init from given binary data",
+                        "issueUrl": "https://github.com/Intervention/image/issues/1075"
+                    },
+                    {
+                        "issueName": "Issue with instantiating Driver",
+                        "issueUrl": "https://github.com/Intervention/image/issues/1074"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "projectName": "Ajax",
+        "projectUrl": "https://github.com/topics/ajax",
+        "gitRepos": [
+            {
+                "repoName": "infinite-scroll\n",
+                "repoUrl": "https://github.com/metafizzy/infinite-scroll",
+                "issues": [
+                    {
+                        "issueName": "Replace history to previous element when scrolling up",
+                        "issueUrl": "https://github.com/metafizzy/infinite-scroll/issues/940"
+                    },
+                    {
+                        "issueName": "Infinite-Sroll with Livewire?",
+                        "issueUrl": "https://github.com/metafizzy/infinite-scroll/issues/939"
+                    },
+                    {
+                        "issueName": "[Feature Request] Secure Only Mode",
+                        "issueUrl": "https://github.com/metafizzy/infinite-scroll/issues/938"
+                    },
+                    {
+                        "issueName": "Next page loading",
+                        "issueUrl": "https://github.com/metafizzy/infinite-scroll/issues/937"
+                    },
+                    {
+                        "issueName": "Plugin instance is ignoring new path function set with InfiniteScroll.prototype.option method",
+                        "issueUrl": "https://github.com/metafizzy/infinite-scroll/issues/936"
+                    },
+                    {
+                        "issueName": "Video elements loaded in do not display or play in Safari",
+                        "issueUrl": "https://github.com/metafizzy/infinite-scroll/issues/926"
+                    },
+                    {
+                        "issueName": "Appended content is loaded above button",
+                        "issueUrl": "https://github.com/metafizzy/infinite-scroll/issues/923"
+                    },
+                    {
+                        "issueName": "Pre-loading quicker to avoid user seeing the loading icon at the bottom",
+                        "issueUrl": "https://github.com/metafizzy/infinite-scroll/issues/920"
+                    }
+                ]
+            },
+            {
+                "repoName": "Blog\n",
+                "repoUrl": "https://github.com/ljianshu/Blog",
+                "issues": [
+                    {
+                        "issueName": "ES2021/ES12 令人期待的新特性",
+                        "issueUrl": "https://github.com/ljianshu/Blog/issues/92"
+                    },
+                    {
+                        "issueName": "你真的懂Promise吗",
+                        "issueUrl": "https://github.com/ljianshu/Blog/issues/81"
+                    },
+                    {
+                        "issueName": "让开发效率“飞起”的VS Code 插件",
+                        "issueUrl": "https://github.com/ljianshu/Blog/issues/80"
+                    },
+                    {
+                        "issueName": "ES2020新特性",
+                        "issueUrl": "https://github.com/ljianshu/Blog/issues/79"
+                    },
+                    {
+                        "issueName": "7个令人兴奋的 JavaScript 新特性",
+                        "issueUrl": "https://github.com/ljianshu/Blog/issues/78"
+                    },
+                    {
+                        "issueName": "盘点ES7、ES8、ES9、ES10新特性",
+                        "issueUrl": "https://github.com/ljianshu/Blog/issues/76"
+                    },
+                    {
+                        "issueName": "什么是JavaScript 函数式编程？",
+                        "issueUrl": "https://github.com/ljianshu/Blog/issues/72"
+                    },
+                    {
+                        "issueName": "Vue.js一些开发技巧",
+                        "issueUrl": "https://github.com/ljianshu/Blog/issues/71"
+                    }
+                ]
+            },
+            {
+                "repoName": "unfetch\n",
+                "repoUrl": "https://github.com/developit/unfetch",
+                "issues": [
+                    {
+                        "issueName": "The second alternative to AbortController support (#54, #68, #137)",
+                        "issueUrl": "https://github.com/developit/unfetch/issues/148"
+                    },
+                    {
+                        "issueName": "fetching files renders invalid blob",
+                        "issueUrl": "https://github.com/developit/unfetch/issues/145"
+                    },
+                    {
+                        "issueName": "Type is no longer compatible with fetch",
+                        "issueUrl": "https://github.com/developit/unfetch/issues/144"
+                    },
+                    {
+                        "issueName": "isomorphic-unfetch: Consider making node-fetch a peerDependency ",
+                        "issueUrl": "https://github.com/developit/unfetch/issues/143"
+                    },
+                    {
+                        "issueName": "Promise was rejected with a non-error",
+                        "issueUrl": "https://github.com/developit/unfetch/issues/139"
+                    },
+                    {
+                        "issueName": "TypeScript Error: has no exported member 'Body'.",
+                        "issueUrl": "https://github.com/developit/unfetch/issues/119"
+                    },
+                    {
+                        "issueName": "XDomainRequest. IE 8 will not work when CORS requests",
+                        "issueUrl": "https://github.com/developit/unfetch/issues/106"
+                    },
+                    {
+                        "issueName": "Typescript issue: weird dependency on node-fetch in declaration file",
+                        "issueUrl": "https://github.com/developit/unfetch/issues/96"
+                    }
+                ]
+            },
+            {
+                "repoName": "form\n",
+                "repoUrl": "https://github.com/jquery-form/form",
+                "issues": [
+                    {
+                        "issueName": "multiple file",
+                        "issueUrl": "https://github.com/jquery-form/form/issues/590"
+                    },
+                    {
+                        "issueName": "Feature Request: onReady event",
+                        "issueUrl": "https://github.com/jquery-form/form/issues/589"
+                    },
+                    {
+                        "issueName": "<button> elements with no \"type\" don't send their value on submit",
+                        "issueUrl": "https://github.com/jquery-form/form/issues/588"
+                    },
+                    {
+                        "issueName": "Trouble I have created a filters for my custom post type universities using ajax",
+                        "issueUrl": "https://github.com/jquery-form/form/issues/584"
+                    },
+                    {
+                        "issueName": "WebSocket option?",
+                        "issueUrl": "https://github.com/jquery-form/form/issues/582"
+                    },
+                    {
+                        "issueName": "Potential Vulnerability",
+                        "issueUrl": "https://github.com/jquery-form/form/issues/580"
+                    },
+                    {
+                        "issueName": "Access form from error callback",
+                        "issueUrl": "https://github.com/jquery-form/form/issues/568"
+                    },
+                    {
+                        "issueName": "Fortify SCA:  Code Injection . ",
+                        "issueUrl": "https://github.com/jquery-form/form/issues/554"
+                    }
+                ]
+            },
+            {
+                "repoName": "elFinder\n",
+                "repoUrl": "https://github.com/Studio-42/elFinder",
+                "issues": [
+                    {
+                        "issueName": "How to integrate with Codeigniter 3.11",
+                        "issueUrl": "https://github.com/Studio-42/elFinder/issues/3283"
+                    },
+                    {
+                        "issueName": "Failure on Backend connector when sending long query string (delete/copy multiple selection)",
+                        "issueUrl": "https://github.com/Studio-42/elFinder/issues/3282"
+                    },
+                    {
+                        "issueName": "How to Convert hash to path",
+                        "issueUrl": "https://github.com/Studio-42/elFinder/issues/3279"
+                    },
+                    {
+                        "issueName": "Wrong code",
+                        "issueUrl": "https://github.com/Studio-42/elFinder/issues/3278"
+                    },
+                    {
+                        "issueName": "Invalid callback elFinderSession::session_start_error",
+                        "issueUrl": "https://github.com/Studio-42/elFinder/issues/3277"
+                    },
+                    {
+                        "issueName": "Is there a way to run a server-side command (or a PHP/AJAX function) when 504 error occurs?",
+                        "issueUrl": "https://github.com/Studio-42/elFinder/issues/3274"
+                    },
+                    {
+                        "issueName": "Is it possible to run elFinder on multiple php-fpm replicas?",
+                        "issueUrl": "https://github.com/Studio-42/elFinder/issues/3272"
+                    },
+                    {
+                        "issueName": "Overriding getstate function of command",
+                        "issueUrl": "https://github.com/Studio-42/elFinder/issues/3269"
+                    }
+                ]
+            },
+            {
+                "repoName": "tabulator\n",
+                "repoUrl": "https://github.com/olifolkerd/tabulator",
+                "issues": [
+                    {
+                        "issueName": "Tabulator Midnight theme - row highlighting misbehaves during scroll",
+                        "issueUrl": "https://github.com/olifolkerd/tabulator/issues/3278"
+                    },
+                    {
+                        "issueName": "incorrect npm tag: 'cookie'",
+                        "issueUrl": "https://github.com/olifolkerd/tabulator/issues/3277"
+                    },
+                    {
+                        "issueName": "How to get tabulator table checked data?",
+                        "issueUrl": "https://github.com/olifolkerd/tabulator/issues/3276"
+                    },
+                    {
+                        "issueName": "Use deep attribut in formatterParams.labelField",
+                        "issueUrl": "https://github.com/olifolkerd/tabulator/issues/3273"
+                    },
+                    {
+                        "issueName": "setGroupBy does not work with dataTree set to true",
+                        "issueUrl": "https://github.com/olifolkerd/tabulator/issues/3271"
+                    },
+                    {
+                        "issueName": "Collapsible Non-tree Rows",
+                        "issueUrl": "https://github.com/olifolkerd/tabulator/issues/3269"
+                    },
+                    {
+                        "issueName": "Buggy Implementation of columnResized Event",
+                        "issueUrl": "https://github.com/olifolkerd/tabulator/issues/3268"
+                    },
+                    {
+                        "issueName": "Rownum in PrintPreview",
+                        "issueUrl": "https://github.com/olifolkerd/tabulator/issues/3262"
+                    }
+                ]
+            },
+            {
+                "repoName": "reqwest\n",
+                "repoUrl": "https://github.com/ded/reqwest",
+                "issues": [
+                    {
+                        "issueName": "Type settings jsonp, jsonpCallback and jsonpCallbackName are not added, there will be default callback?",
+                        "issueUrl": "https://github.com/ded/reqwest/issues/276"
+                    },
+                    {
+                        "issueName": "how can i get response head",
+                        "issueUrl": "https://github.com/ded/reqwest/issues/275"
+                    },
+                    {
+                        "issueName": "not support  more than 16 integer data in response data",
+                        "issueUrl": "https://github.com/ded/reqwest/issues/274"
+                    },
+                    {
+                        "issueName": "CORS error when trying to get google geocoding",
+                        "issueUrl": "https://github.com/ded/reqwest/issues/273"
+                    },
+                    {
+                        "issueName": "No err was throwed when network  disconnected",
+                        "issueUrl": "https://github.com/ded/reqwest/issues/271"
+                    },
+                    {
+                        "issueName": "when I use reqwest post file，there is error： nested exception is java.lang.NullPointerException",
+                        "issueUrl": "https://github.com/ded/reqwest/issues/270"
+                    },
+                    {
+                        "issueName": "cache ",
+                        "issueUrl": "https://github.com/ded/reqwest/issues/269"
+                    },
+                    {
+                        "issueName": "reqwest promise with Nock",
+                        "issueUrl": "https://github.com/ded/reqwest/issues/266"
+                    }
+                ]
+            },
+            {
+                "repoName": "learn-to-send-email-via-google-script-html-no-server\n",
+                "repoUrl": "https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server",
+                "issues": [
+                    {
+                        "issueName": "Script function not found: doGet",
+                        "issueUrl": "https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/issues/400"
+                    },
+                    {
+                        "issueName": "Update tutorial for latest IDE version",
+                        "issueUrl": "https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/issues/393"
+                    },
+                    {
+                        "issueName": "Google Captcha instead of Honeypot",
+                        "issueUrl": "https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/issues/373"
+                    },
+                    {
+                        "issueName": "Form element's name attribute is deprecated since HTML 4",
+                        "issueUrl": "https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/issues/369"
+                    },
+                    {
+                        "issueName": "Review alternative methods of form serialization & XHR sending",
+                        "issueUrl": "https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/issues/363"
+                    },
+                    {
+                        "issueName": "Getting 'CORS policy' error in console when I submit my form",
+                        "issueUrl": "https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/issues/358"
+                    },
+                    {
+                        "issueName": "Consider Crowdin for readme translations",
+                        "issueUrl": "https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/issues/329"
+                    },
+                    {
+                        "issueName": "Adopt clasp for easier offline development, versioning, and deployment",
+                        "issueUrl": "https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/issues/250"
+                    }
+                ]
+            }
+        ]
+    }
+]
